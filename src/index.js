@@ -14,7 +14,6 @@ import {
 
 const App = () => {
   const [results, setResults] = useState([]);
-  fetchCards().then(console.log);
   return (
     <div id="app">
       <SearchBar setResults= {setResults} />
