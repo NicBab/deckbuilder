@@ -10,7 +10,7 @@ export async function fetchCards({ name, text }) {
   } catch (error) {
     throw error;
   }
-}
+};
 
 
 
