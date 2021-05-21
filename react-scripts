@@ -18,30 +18,3 @@ You can now view deckbuilder in the browser.
 Note that the development build is not optimized.
 To create a production build, use npm run build.
 
-
-Could not open SearchResults.jsx in the editor.
-
-To set up the editor integration, add something like REACT_EDITOR=atom to the .env.local file in your project folder and restart the development server. Learn more: https://goo.gl/MMTaZt
-
-Compiling...
-Compiled successfully!
-Compiling...
-Compiled successfully!
-Compiling...
-Compiled successfully!
-Compiling...
-Compiled successfully!
-
-Could not open DeckList.jsx in the editor.
-
-To set up the editor integration, add something like REACT_EDITOR=atom to the .env.local file in your project folder and restart the development server. Learn more: https://goo.gl/MMTaZt
-
-
-Could not open DeckList.jsx in the editor.
-
-To set up the editor integration, add something like REACT_EDITOR=atom to the .env.local file in your project folder and restart the development server. Learn more: https://goo.gl/MMTaZt
-
-Compiling...
-Compiled successfully!
-Compiling...
-Compiled successfully!
